@@ -1,4 +1,4 @@
-class Solution {
+class Solution { //Newton's method
 public:
     int mySqrt(int n) {
         double x = n ;
